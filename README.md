@@ -52,3 +52,5 @@ Prérequis:
 2-Remplacer les informations de connexion par celles de votre base de données MySQL.
 3-Importer le projet dans votre IDE.
 4-Exécuter la classe Entreprise pour créer les employés et afficher les résultats.
+https://github.com/user-attachments/assets/d6922a4d-d2f7-43b1-bbd1-546ff83bd940
+
